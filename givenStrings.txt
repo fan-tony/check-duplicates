@@ -1,0 +1,40 @@
+BLAST: Basic Local Alignment Search Tool. National Center for Biotechnology Information. U.S. National Library of Medicine. Available from: https://blast.ncbi.nlm.nih.gov/Blast.cgi [Accessed 22nd November 2018]. 
+What is a Virus?. Available from: https://www.highveld.com/virology/what-is-a-virus.html [Accessed 22nd November 2018].
+The Position of Viruses in the Biological Spectrum - ppt video online download. Available from: https://slideplayer.com/slide/5169841/ [Accessed 22nd November 2018].
+Silva JVJ, Ludwig-Begall LF, Oliveira-Filho EF de, Oliveira RAS, Durães-Carvalho R, Lopes TRR, et al. A scoping review of Chikungunya virus infection: epidemiology, clinical characteristics, viral co-circulation complications, and control. Acta Trop. 2018 Dec;188:213–24.
+Petersen LR, Powers AM. Chikungunya: epidemiology. F1000Res [Internet]. 2016 Jan 19 [cited 2018 Nov 23];5. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754000/
+van Duijl-Richter MKS, Hoornweg TE, Rodenhuis-Zybert IA, Smit JM. Early Events in Chikungunya Virus Infection—From Virus Cell Binding to Membrane Fusion. Viruses. 2015 Jul 7;7(7):3647–74.
+Fredericks AC, Fernandez-Sesma A. The Burden of Dengue and Chikungunya Worldwide: Implications for the Southern United States and California. Annals of Global Health. 2014 Nov 1;80(6):466–75.
+Patterson J, Sammon M, Garg M. Dengue, Zika and Chikungunya: Emerging Arboviruses in the New World. West J Emerg Med. 2016 Nov;17(6):671–9.
+da Cunha RV, Trinta KS. Chikungunya virus: clinical aspects and treatment - A Review. Mem Inst Oswaldo Cruz. 2017 Aug;112(8):523–31.
+Zeller H, Van Bortel W, Sudre B. Chikungunya: Its History in Africa and Asia and Its Spread to New Regions in 2013–2014. J Infect Dis. 2016 Dec 15;214(suppl_5):S436–40.
+Yap ML, Klose T, Urakami A, Hasan SS, Akahata W, Rossmann MG. Structural studies of Chikungunya virus maturation. PNAS. 2017 Dec 26;114(52):13703–7.
+Ramsey J, Mukhopadhyay S. Disentangling the Frames, the State of Research on the Alphavirus 6K and TF Proteins. Viruses. 2017 Aug 18;9(8):228.
+Metz SW, Pijlman GP. Function of Chikungunya Virus Structural Proteins. In: Okeoma CM, editor. Chikungunya Virus: Advances in Biology, Pathogenesis, and Treatment [Internet]. Cham: Springer International Publishing; 2016 [cited 2018 Nov 23]. p. 63–74. Available from: https://doi.org/10.1007/978-3-319-42958-8_5
+Kim CW, Chang K-M. Hepatitis C virus: virology and life cycle. Clinical and Molecular Hepatology. 2013 Mar 25;19(1):17–25.
+Lindenbach BD, Rice CM. The ins and outs of hepatitis C virus entry and assembly. Nat Rev Microbiol. 2013 Oct;11(10):688–700.
+Solignat M, Gay B, Higgs S, Briant L, Devaux C. Replication cycle of chikungunya: A re-emerging arbovirus. Virology. 2009 Oct;393(2):183–97. 
+Chikungunya Virus. Available from: http://www.chikungunyavirusnet.com/chikungunya-virus.html [Accessed 22nd November 2018].
+A schematic representation of the systemic Chikungunya virus... [Internet]. ResearchGate. [cited 2018 Nov 23]. Available from: https://www.researchgate.net/figure/A-schematic-representation-of-the-systemic-Chikungunya-virus-dissemination-The_fig2_286982506
+Pi M, Kapoor K, Ye R, Smith JC, Baudry J, Quarles LD. GPCR6A Is a Molecular Target for the Natural Products Gallate and EGCG in Green Tea. Mol Nutr Food Res. 2018;62(8):e1700770.
+Daniel JA, Chau N, Abdel-Hamid MK, Hu L, von Kleist L, Whiting A, et al. Phenothiazine-derived antipsychotic drugs inhibit dynamin and clathrin-mediated endocytosis. Traffic. 2015 Jun;16(6):635–54.
+Roman-Sosa G, Kielian M. The Interaction of Alphavirus E1 Protein with Exogenous Domain III Defines Stages in Virus-Membrane Fusion?. J Virol. 2011 Dec;85(23):12271–9.
+Jain J, Kumari A, Somvanshi P, Grover A, Pai S, Sunil S. In silico analysis of natural compounds targeting structural and nonstructural proteins of chikungunya virus. F1000Research. 2017 Dec 8;6:1601. 
+Abu Bakar F, Ng L. Nonstructural Proteins of Alphavirus—Potential Targets for Drug Development. Viruses. 2018 Feb 9;10(2):71. 
+Lampio A, Ahola T, Darzynkiewicz E, Stepinski J, Jankowskaanyszka M, Kaariainen L. Guanosine nucleotide analogs as inhibitors of alphavirus mRNA capping enzyme. Antiviral Research. 1999 May;42(1):35–46. 
+Hallengärd D, Kakoulidou M, Lulla A, Kümmerer BM, Johansson DX, Mutso M, et al. Novel attenuated Chikungunya vaccine candidates elicit protective immunity in C57BL/6 mice. J Virol. 2014 Mar;88(5):2858–66.
+Jacobs SC, Taylor A, Herrero LJ, Mahalingam S, Fazakerley JK. Mutation of a Conserved Nuclear Export Sequence in Chikungunya Virus Capsid Protein Disrupts Host Cell Nuclear Import. Viruses. 2017 20;9(10).
+Cashman JN. The mechanisms of action of NSAIDs in analgesia. Drugs. 1996;52 Suppl 5:13–23.
+Parashar D, Cherian S. Antiviral Perspectives for Chikungunya Virus. BioMed Research International. 2014;2014:1–11. 
+Kuo S-C, Wang Y-M, Ho Y-J, Chang T-Y, Lai Z-Z, Tsui P-Y, et al. Suramin treatment reduces chikungunya pathogenesis in mice. Antiviral Research. 2016 Oct 1;134:89–96.
+Pal P, Fox JM, Hawman DW, Huang Y-JS, Messaoudi I, Kreklywich C, et al. Chikungunya Viruses That Escape Monoclonal Antibody Therapy Are Clinically Attenuated, Stable, and Not Purified in Mosquitoes. J Virol. 2014 Aug;88(15):8213–26.
+The immune system and the antibody response | Abcam. Available from: https://www.abcam.com/protocols/the-immune-system-and-the-antibody-response [Accessed 22nd November 2018].
+Forthal DN. Functions of Antibodies. Microbiol Spectr. 2014 Aug 15;2(4):1–17.
+Ferrara F, D’Angelo S, Gaiotto T, Naranjo L, Tian H, Gräslund S, et al. Recombinant renewable polyclonal antibodies. MAbs. 2014 Dec 20;7(1):32–41.
+Couderc T, Khandoudi N, Grandadam M, Visse C, Gangneux N, Bagot S, et al. Prophylaxis and Therapy for Chikungunya Virus Infection. J Infect Dis. 2009 Aug 1;200(4):516–23.
+Marston HD, Paules CI, Fauci AS. Monoclonal Antibodies for Emerging Infectious Diseases — Borrowing from History. New England Journal of Medicine. 2018 Apr 19;378(16):1469–72. 
+Jin J, Liss NM, Chen D-H, Liao M, Fox JM, Shimak RM, et al. Neutralizing Monoclonal Antibodies Block Chikungunya Virus Entry and Release by Targeting an Epitope Critical to Viral Pathogenesis. Cell Rep. 2015 Dec 22;13(11):2553–64.
+Development of a Highly Protective Combination Monoclonal Antibody Therapy against Chikungunya Virus [Internet]. [cited 2018 Nov 23]. Available from: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003312
+Broeckel R, Fox JM, Haese N, Kreklywich CN, Sukulpovi-Petty S, Legasse A, et al. Therapeutic administration of a recombinant human monoclonal antibody reduces the severity of chikungunya virus disease in rhesus macaques. PLoS Negl Trop Dis. 2017 Jun;11(6):e0005637.
+Chahar HS, Bharaj P, Dar L, Guleria R, Kabra SK, Broor S. Co-infections with Chikungunya Virus and Dengue Virus in Delhi, India. Emerg Infect Dis. 2009 Jul;15(7):1077–80.
+BLAST: Basic Local Alignment Search Tool. National Center for Biotechnology Information. U.S. National Library of Medicine. Available from: https://blast.ncbi.nlm.nih.gov/Blast.cgi [Accessed 22nd November 2018]. 
